@@ -1,0 +1,7 @@
+{
+  "observer_active": true,
+  "mode": "non-intrusive",
+  "observed_field": "hcm-cause-appearance-field",
+  "last_observation": null,
+  "action_permission": "not-granted"
+}
